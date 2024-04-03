@@ -1,0 +1,6 @@
+@import "/src/statics/styles/variables";
+
+.ship {
+  display: flex;
+  transform: rotate(90deg) rotateX(180deg);
+}

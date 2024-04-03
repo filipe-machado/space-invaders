@@ -1,0 +1,5 @@
+@import "/src/statics/styles/mixins";
+
+.pixel {
+  @include pixel
+}
